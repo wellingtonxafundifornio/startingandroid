@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projeto Teste</string>
+    <string name="app_name_entrada">Titulo de entrada</string>
+    <string name="hint_mail">Entre seu E-mail</string>
+    <string name="hint_password">Entre com sua senha</string>
+
+    <string name="label_forgot_password">Esqueci a senha</string>
+    <string name="label_enter">Entrar</string>
+    <string name="label_register">Registre-se</string>
+
+    <string name="error_connection">Você está com problemas de conexão com a internet</string>
+    <string name="server_error_timeout">Servidor não responde. Tente mais tarde.</string>
+    <string name="server_error_failed_call_to_service">WebTask Failed calling service</string>
+    <string name="error_field_email">Falta o email</string>
+
+    <string name="hint_email">Entre seu e-mail</string>
+    <string name="error_field_password">Entre seu password</string>
+    <string name="error_no_user">Não há usuário logado</string>
+    <string name="label_tasks">Tarefas de %s</string>
+    <string name="error_json">A resposta do Servidor não está de acordo com o esperado</string>
+</resources>

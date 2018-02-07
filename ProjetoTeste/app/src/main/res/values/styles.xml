@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="text_theme" parent="AppTheme">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="AppThemeToolbar" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ToolbarTheme">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+    </style>
+
+</resources>
